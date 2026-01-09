@@ -1,6 +1,6 @@
 <h1 align="center">Hey there, I'm TheMadMartina</h1>
 
-<p </p>align="center">
+</p align="center">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   </a> 
@@ -28,17 +28,11 @@
   <a href="https://redux.js.org/" target="_blank" rel="noreferrer"> 
   <img src="https://i.ibb.co/v4BFdS7/Redux.png" alt="Redux" width="40" height="40"/> 
   </a> 
-  <a href="https://styled-components.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://res.cloudinary.com/dev-shahriyar/image/upload/v1677149819/Store/styled-components_uwtdhi.png" alt="styled-components" width="40" height="40"/> 
-  </a> 
   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> 
   <img src="https://res.cloudinary.com/dev-shahriyar/image/upload/v1677149356/Store/sass_dh63as.svg" alt="sass" width="40" height="40"/> 
   </a> 
   <a href="https://reactrouter.com/" target="_blank" rel="noreferrer"> 
   <img src="https://i.ibb.co/72RyCgr/route-removebg-preview.png" alt="react" width="40" height="40"/> 
-  </a>
-  <a href="https://react-query.tanstack.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://i.ibb.co/KG89Bqd/Screenshot-1-removebg-preview.png" alt="react" width="40" height="40"/> 
   </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
@@ -53,13 +47,16 @@
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
   <img src="https://res.cloudinary.com/dev-shahriyar/image/upload/v1676877264/Store/Express-js_r4har1.png" alt="express" width="40" height="40"/> 
   </a>
-<a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://res.cloudinary.com/dev-shahriyar/image/upload/v1677149356/Store/gatsby_nk1bel.svg" alt="gatsby" width="40" height="40"/> 
-  </a>
-
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://www.python.org" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+</a>
   
 </p>
 <h2 align="center">The Stats</h2>
