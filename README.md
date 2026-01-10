@@ -1,6 +1,7 @@
 <h1 align="center">Hey there, I'm TheMadMartina</h1>
-
-</p align="center">
+<p>I live between curiosity and chaos, writing code in Python,JavaScript , and C  to break logic and rebuild it with intent. My ideas often start messy, late at night, and grow through mistakes, experiments, and obsession. I don’t chase perfection—I chase understanding, patterns, and the thrill of making things work.Also, there is a lot of struggles behind the Martina and still, though I've taken it as a new  chaos.</p>
+<h2 align="center">Tech Stack</h2>
+<div align="center">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   </a> 
@@ -31,9 +32,6 @@
   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> 
   <img src="https://res.cloudinary.com/dev-shahriyar/image/upload/v1677149356/Store/sass_dh63as.svg" alt="sass" width="40" height="40"/> 
   </a> 
-  <a href="https://reactrouter.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://i.ibb.co/72RyCgr/route-removebg-preview.png" alt="react" width="40" height="40"/> 
-  </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
   </a>
@@ -50,13 +48,13 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+</a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
 </a>
 
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-</a>
   
 </p>
 <h2 align="center">The Stats</h2>
@@ -64,7 +62,7 @@
   <a href="https://github.com/TheMadMartina">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheMadMartina&theme=radical" alt="Martina's GitHub Contribution"/>
   </a>
-</p>
+</div>
 
 <a> 
     <a href="https://github.com/harun181"><img alt="Martina's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=TheMadMartina&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
